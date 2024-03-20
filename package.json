@@ -1,6 +1,6 @@
 {
   "bin": {
-    "china-dictatorship": "china-dictatorship"
+    "kiukyrb/glitch03d20": "kiukyrb/glitch03d20"
   },
   "dependencies": {},
   "description": "2018新疆改造中心，1989六四事件，1999法轮功 ，2019 996.ICU, 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵，2017低端人口，2008西藏骚乱",
@@ -10,7 +10,7 @@
   },
   "files": [
     "index.js",
-    "china-dictatorship",
+    "kiukyrb/glitch03d20",
     "README.md",
     "README.adoc",
     "README.html"
@@ -20,8 +20,8 @@
     "dictatorship"
   ],
   "license": "CC-BY-SA-4.0",
-  "name": "china-dictatorship",
-  "repository": "cirosantilli/china-dictatorship",
+  "name": "kiukyrb/glitch03d20",
+  "repository": "cirosantilli/kiukyrb/glitch03d20",
   "scripts": {
     "prepublishOnly": "cp README.adoc README.md;make"
   },
