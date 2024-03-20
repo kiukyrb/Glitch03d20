@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const PACKAGE_PATH = path.dirname(require.resolve(path.join('china-dictatorship', 'package.json')));
+const PACKAGE_PATH = path.dirname(require.resolve(path.join('kiukyrb/glitch03d20', 'package.json')));
 const README_PATH = path.join(PACKAGE_PATH, 'README.html');
 
 function get_data() {
